@@ -1,0 +1,4 @@
+For colours use hex code starts with # like
+
+#000000
+#ffffff
